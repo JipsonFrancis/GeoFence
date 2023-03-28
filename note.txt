@@ -1,0 +1,14 @@
+esp8366 board
+
+link: 	
+paste the link in preference/additional board manager/
+
+when uploading select Generic ESP8266 module
+
+-----------------------------------------------------------------------------------------------------------------------------
+Animal collar connection
+gsp connection
+rx =14
+tx =12
+
+buzzer+ =13
